@@ -29,14 +29,14 @@
 
 ## 🏛️ Research Group & Institutional Overview
 
-Welcome to the official GitHub profile of **Volkan Dağlı** and the **ITouch Systems Research & Development Group** (*ITouch Bilişim Sistemleri Ltd. Şti.*, Çukurova University Science Park, Adana/Mersin, Türkiye & Anadolu University).
+Welcome to the official GitHub profile of **Volkan Dağlı** and the **ITouch Systems Research & Development Group** (*ITouch Bilişim Sistemleri Ltd. Şti.*, Cukurova University Science Park, Adana/Mersin, Türkiye & Anadolu University).
 
 Our research programme investigates **deterministic, zero-storage procedural synthesis** via bounded-iteration complex polynomial escape dynamics ($z_{n+1} = z_n^2 + c$), **machine-checked interactive theorem proving in Lean 4 (`0 sorry`)**, **computational number theory & discrete algebra**, **whole-brain neuromorphic connectomics**, and **intra-block fixed-point (`Q16.16`) smart contract security oracles**.
 
 ### 👥 Core Research Team & Co-Inventors
-* **Volkan Dağlı** — *Lead Architect & Corresponding Author* (Anadolu University & ITouch Systems, Çukurova Teknokent) · ORCID: [`0009-0000-1587-8703`](https://orcid.org/0009-0000-1587-8703) · [`@pCwOrM`](https://github.com/pCwOrM)
-* **Dr. Zerrin Dağlı** — *Co-Author, Co-Inventor & Academic Coordinator* (Mersin University & Yusuf Kalkavan Anatolian High School) · ORCID: [`0000-0001-9490-6425`](https://orcid.org/0000-0001-9490-6425) · [`@jesmaat`](https://github.com/jesmaat)
-* **Dağhan Dağlı** — *Co-Author, Co-Inventor & Connectome / Formal Verification Architect* (Toros Science High School, Toros University Foundation) · ORCID: [`0009-0003-2492-8313`](https://orcid.org/0009-0003-2492-8313) · [`@Lexovian`](https://github.com/Lexovian)
+* **Volkan Dağlı** — *Corresponding Author, CTO* (Anadolu University & ITouch Systems, Cukurova University Science Park) · ORCID: [`0009-0000-1587-8703`](https://orcid.org/0009-0000-1587-8703) · [`@pCwOrM`](https://github.com/pCwOrM)
+* **Dr. Zerrin Dağlı** — *Co-Author, Co-Inventor & Academic Coordinator* (Mersin University) · ORCID: [`0000-0001-9490-6425`](https://orcid.org/0000-0001-9490-6425) · [`@jesmaat`](https://github.com/jesmaat)
+* **Dağhan Dağlı** — *Co-Author, Co-Inventor & Connectome / Formal Verification Architect* (Toros University, Toros University Foundation) · ORCID: [`0009-0003-2492-8313`](https://orcid.org/0009-0003-2492-8313) · [`@Lexovian`](https://github.com/Lexovian)
 * **Bekirhan Dağlı** (*Managing Partner & Bare-Metal Cluster Infrastructure Lead*, ITouch Systems) & **Semih Salar** (*Platform Engineering Lead*, ITouch Systems)
 
 ---
@@ -124,6 +124,16 @@ All monographs, formal Lean 4 specifications, and empirical datasets across the 
 
 ---
 
-## 📬 Institutional Contact & Licensing
-* **Corporate Entity:** `ITOUCH BİLİŞİM SİSTEMLERİ MÜHENDİSLİK DANIŞMANLIK SANAYİ VE TİCARET LİMİTED ŞİRKETİ` (`ITouch Systems` · Çukurova University Science Park, Adana, Türkiye · MERSİS: `0469094455800001` · VKN: `4690944558`)
-* **Email:** `vdagli@itouch.com.tr` · `contact@werracle.com` · `ask@answerr.me`
+## 📬 Institutional Governance & Commercial Licensing
+* **Author Team & Academic Affiliations:**
+  * **Volkan Dağlı:** Anadolu University · ORCID: [`0009-0000-1587-8703`](https://orcid.org/0009-0000-1587-8703) *(Corresponding Author, CTO)*
+  * **Dr. Zerrin Dağlı:** Mersin University · ORCID: [`0000-0001-9490-6425`](https://orcid.org/0000-0001-9490-6425) *(Co-Author, Academic Coordinator)*
+  * **Dağhan Dağlı:** Toros University · ORCID: [`0009-0003-2492-8313`](https://orcid.org/0009-0003-2492-8313) *(Co-Author)*
+* **Intellectual Property & Licensing Administration:**
+  * All scientific monographs, formal Lean 4 verification proofs, and patent priorities are authored by Volkan Dağlı, Dr. Zerrin Dağlı, and Dağhan Dağlı.
+  * Comprehensive stewardship, administration, and representation over all intellectual property rights are vested in **Volkan Dağlı**.
+  * Exclusive commercial deployment, enterprise support, and industrial licensing rights have been granted to **ITouch Systems** (`ITOUCH BILISIM SISTEMLERI LTD. STI.`, Cukurova University Science Park, Adana, Türkiye).
+* **Corporate Governance (ITouch Systems):**
+  * **Volkan Dağlı:** Partner & Chief Technology Officer (CTO)
+  * **Bekirhan Dağlı:** Managing Partner & Chief Executive Officer (CEO)
+* **Official Contacts:** `vdagli@itouch.com.tr` · `contact@werracle.com` · `ask@answerr.me`
