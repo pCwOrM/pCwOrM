@@ -36,8 +36,8 @@ Our research programme investigates **deterministic, zero-storage procedural syn
 ### 👥 Core Research Team & Co-Inventors
 * **Volkan Dağlı** — *Corresponding Author, CTO* (Anadolu University & ITouch Systems, Cukurova University Science Park) · ORCID: [`0009-0000-1587-8703`](https://orcid.org/0009-0000-1587-8703) · [`@pCwOrM`](https://github.com/pCwOrM)
 * **Dr. Zerrin Dağlı** — *Co-Author, Co-Inventor & Academic Coordinator* (Mersin University) · ORCID: [`0000-0001-9490-6425`](https://orcid.org/0000-0001-9490-6425) · [`@jesmaat`](https://github.com/jesmaat)
-* **Dağhan Dağlı** — *Co-Author, Co-Inventor & Connectome / Formal Verification Architect* (Toros University, Toros University Foundation) · ORCID: [`0009-0003-2492-8313`](https://orcid.org/0009-0003-2492-8313) · [`@Lexovian`](https://github.com/Lexovian)
-* **Bekirhan Dağlı** (*Managing Partner & Bare-Metal Cluster Infrastructure Lead*, ITouch Systems) & **Semih Salar** (*Platform Engineering Lead*, ITouch Systems)
+* **Dağhan Dağlı** — *Co-Author, Co-Inventor & Connectome / Formal Verification Architect* (Toros University) · ORCID: [`0009-0003-2492-8313`](https://orcid.org/0009-0003-2492-8313) · [`@Lexovian`](https://github.com/Lexovian)
+* **Bekirhan Dağlı** (*Managing Partner & CEO*, ITouch Systems) & **Semih Salar** (*Platform Engineering Lead*, ITouch Systems)
 
 ---
 
