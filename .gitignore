@@ -1,0 +1,41 @@
+# OS & Editor artifacts
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+
+# Environments & Caches
+__pycache__/
+*.py[cod]
+.venv/
+env/
+venv/
+node_modules/
+
+# Security, Keys, Secrets & Credentials (STRICTLY EXCLUDED)
+.env
+.env.*
+*.pem
+*.key
+*.cert
+*.ppk
+id_rsa*
+id_ed25519*
+*credentials*.json
+*secrets*.json
+*github*.json
+*token*
+*password*
+*apikey*
+
+# Administrative, Banking & Official Submission Archives
+turkpatent_*/
+*.tahakkuk
+*dekont*
+*makbuz*
+
+# Private research vaults & isolations
+private_archive*/
+_isolated_test_vault*/
+*crown_core*
