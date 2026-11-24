@@ -8,11 +8,11 @@
 [![arXiv Publications](https://img.shields.io/badge/arXiv-6_Published_%C2%B7_2_In_Moderation-b31b1b.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2610.14263)
 [![CERN Zenodo Corpus](https://img.shields.io/badge/CERN_Zenodo-15_Monograph_Families-024dad.svg)](https://doi.org/10.5281/zenodo.22774934)
 [![Elsevier SSRN](https://img.shields.io/badge/Elsevier_SSRN-3_Distributed_Papers-002f6c.svg?logo=elsevier&logoColor=white)](https://papers.ssrn.com/abstract=7659198)
-[![Lean 4 Formal Verification](https://img.shields.io/badge/Lean_4-170%2B_Theorems_(0_sorry)-10b981.svg)](https://github.com/pCwOrM/gap-lean4-port)
+[![Lean 4 Formal Verification](https://img.shields.io/badge/Lean_4-190%2B_Theorems_(0_sorry)-10b981.svg)](https://github.com/pCwOrM/gap-lean4-port)
 [![NSF ICARM Leaderboard](https://img.shields.io/badge/NSF_ICARM_Leaderboard-230_Curves_%C2%B7_30x_%231_Gold-0ea5e9.svg)](https://elliptic-rank.icarm.cloud/user/114)
 [![Schönhage Tensor Bound](https://img.shields.io/badge/Sch%C3%B6nhage_Tensor--377%2C890_Wires_(CrocSwap_%23226)-10b981.svg)](https://github.com/CrocSwap/integer-mult-bounds/pull/226)
 [![Base Mainnet: Werrium (WERR)](https://img.shields.io/badge/Base_Mainnet-Werrium_(%24WERR)_Verified-0052ff.svg?logo=coinbase&logoColor=white)](https://basescan.org/address/0xFfa2c95b68B76af00FBD84295cBA5e5268a996d2)
-[![TÜRKPATENT Priorities](https://img.shields.io/badge/T%C3%9CRKPATENT-TR_2026%2F016285_%7C_016633-7c3aed.svg)](https://github.com/pCwOrM/fractal-neural-synthesis)
+[![TÜRKPATENT Priorities](https://img.shields.io/badge/T%C3%9CRKPATENT-TR_2026%2F016285_%7C_016633_%7C_020266-7c3aed.svg)](https://github.com/pCwOrM/fractal-neural-synthesis)
 
 <p align="center">
   <a href="https://werr.io"><b>werr.io</b></a> •
@@ -20,7 +20,8 @@
   <a href="https://werracle.io"><b>werracle.io</b></a> •
   <a href="https://radar.werracle.com"><b>radar.werracle.com</b></a> •
   <a href="https://werracle.com"><b>werracle.com</b></a> •
-  <a href="https://werrsoma.answerr.me"><b>werrsoma.answerr.me</b></a>
+  <a href="https://werrsoma.answerr.me"><b>werrsoma.answerr.me</b></a> •
+  <a href="https://rad.werr.io"><b>rad.werr.io</b></a>
 </p>
 
 </div>
@@ -29,12 +30,12 @@
 
 ## 🏛️ Research Group & Institutional Overview
 
-Welcome to the official GitHub profile of **Volkan Dağlı** and the **ITouch Systems Research & Development Group** (*ITouch Bilişim Sistemleri Ltd. Şti.*, Cukurova University Science Park, Adana/Mersin, Türkiye & Anadolu University).
+Welcome to the official GitHub profile of **Volkan Dağlı** and the **ITouch Systems Research & Development Group** (*ITouch Bilişim Sistemleri Ltd. Şti.*, Cukurova University Technopark, Adana/Mersin, Türkiye & Anadolu University).
 
 Our research programme investigates **deterministic, zero-storage procedural synthesis** via bounded-iteration complex polynomial escape dynamics ($z_{n+1} = z_n^2 + c$), **machine-checked interactive theorem proving in Lean 4 (`0 sorry`)**, **computational number theory & discrete algebra**, **whole-brain neuromorphic connectomics**, and **intra-block fixed-point (`Q16.16`) smart contract security oracles**.
 
 ### 👥 Core Research Team & Co-Inventors
-* **Volkan Dağlı** — *Corresponding Author, CTO* (Anadolu University & ITouch Systems, Cukurova University Science Park) · ORCID: [`0009-0000-1587-8703`](https://orcid.org/0009-0000-1587-8703) · [`@pCwOrM`](https://github.com/pCwOrM)
+* **Volkan Dağlı** — *Corresponding Author, CTO* (Anadolu University & ITouch Systems, Cukurova University Technopark) · ORCID: [`0009-0000-1587-8703`](https://orcid.org/0009-0000-1587-8703) · [`@pCwOrM`](https://github.com/pCwOrM)
 * **Dr. Zerrin Dağlı** — *Co-Author, Co-Inventor & Academic Coordinator* (Mersin University) · ORCID: [`0000-0001-9490-6425`](https://orcid.org/0000-0001-9490-6425) · [`@jesmaat`](https://github.com/jesmaat)
 * **Dağhan Dağlı** — *Co-Author, Co-Inventor & Connectome / Formal Verification Architect* (Toros University) · ORCID: [`0009-0003-2492-8313`](https://orcid.org/0009-0003-2492-8313) · [`@Lexovian`](https://github.com/Lexovian)
 * **Bekirhan Dağlı** (*Managing Partner & CEO*, ITouch Systems) & **Semih Salar** (*Platform Engineering Lead*, ITouch Systems)
@@ -59,6 +60,8 @@ Our research programme investigates **deterministic, zero-storage procedural syn
 | **📐 24D Niemeier Lattice A₈³** | [`pCwOrM/niemeier-a8-umbral-moonshine`](https://github.com/pCwOrM/niemeier-a8-umbral-moonshine) | [`Zenodo Concept: 23324066`](https://doi.org/10.5281/zenodo.23324066) | Machine-certified Lean 4 specification (`0 sorry`) of the 24D Niemeier lattice A₈³, K3 duality & Umbral Moonshine |
 | **📐 Schönhage Tensor Bounds** | [`pCwOrM/integer-mult-bounds`](https://github.com/pCwOrM/integer-mult-bounds) | [`arXiv:2610.14263`](https://arxiv.org/abs/2610.14263) | Bipartite carrier compression eliminating 377,890 wires (`κ ≈ 4.1310765 × 10⁻⁵`), incorporated in `CrocSwap#226` |
 | **📐 Elliptic Curve Sieve** | [`pCwOrM/werr-elliptic-sieve`](https://github.com/pCwOrM/werr-elliptic-sieve) | [`NSF ICARM user/114`](https://elliptic-rank.icarm.cloud/user/114) | 230 certified high-rank elliptic curves, 100% `log N` conductor certification, and 30 #1 Gold World Records |
+| **📻 WERRadio & WerrOzan** | [`pCwOrM/WERRadio`](https://github.com/pCwOrM/WERRadio) · [`WerrOzan`](https://github.com/pCwOrM/WerrOzan) | [`rad.werr.io`](https://rad.werr.io/) | 24/7 Liquidsoap + Icecast2 + PWA AI music radio & 53-Koma Turkish maqam synthesis studio |
+| **🧩 Hermes Agent Plugins** | [`hermes-verifiable-math`](https://github.com/pCwOrM/hermes-verifiable-math) · [`fractal-memory`](https://github.com/pCwOrM/hermes-fractal-memory) · [`werracle-guard`](https://github.com/pCwOrM/hermes-werracle-guard) | [`NousResearch/hermes-agent`](https://github.com/NousResearch/hermes-agent) | Official catalog plugins for symbolic/Lean4 math (`v1.0.6`), vectorless episodic memory (`v1.0.3`), and EVM guardrails (`v1.0.2`) |
 
 ---
 
@@ -69,7 +72,7 @@ All monographs, formal Lean 4 specifications, and empirical datasets across the 
 
 | # | Pillar / Monograph | Core Contribution & Focus | 👑 Concept DOI (Always Latest) | 📌 Latest Version DOI | arXiv / SSRN / Hugging Face & Verification Status | Primary Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **01** | **Paper 1: FNS** | Procedural Weight Derivation & Non-Linear Decision Boundaries (v3) | [**`10.5281/zenodo.22774934`**](https://doi.org/10.5281/zenodo.22774934) | [`10.5281/zenodo.22867037`](https://doi.org/10.5281/zenodo.22867037) | [**SSRN: 7659198**](https://papers.ssrn.com/abstract=7659198) *(Distributed)* • Multi-Seed Pareto & Manifold Parity | [`pCwOrM/fractal-neural-synthesis`](https://github.com/pCwOrM/fractal-neural-synthesis) |
+| **01** | **Paper 1: FNS** | Procedural Weight Derivation & Non-Linear Decision Boundaries (v4) | [**`10.5281/zenodo.22774934`**](https://doi.org/10.5281/zenodo.22774934) | [`10.5281/zenodo.24495977`](https://doi.org/10.5281/zenodo.24495977) | `arXiv:submit/8419869` • [**SSRN: 7659198**](https://papers.ssrn.com/abstract=7659198) *(Distributed)* • Tier-1 Replication Suite | [`pCwOrM/fractal-neural-synthesis`](https://github.com/pCwOrM/fractal-neural-synthesis) |
 | **02** | **Paper 2: OED** | Orbital Error Dynamics, Ephemeral Parameter Resonance & CD4+ Gating (v1) | [**`10.5281/zenodo.22900464`**](https://doi.org/10.5281/zenodo.22900464) | [`10.5281/zenodo.22900465`](https://doi.org/10.5281/zenodo.22900465) | [`arXiv:2609.30115`](https://arxiv.org/abs/2609.30115) • [🤗 HF Paper](https://huggingface.co/papers/2609.30115) *(Verified)* • `TR 2026/016285` | [`pCwOrM/fractal-neural-synthesis`](https://github.com/pCwOrM/fractal-neural-synthesis) |
 | **03** | **Paper 3: WERR Map** | Universal Natural Language Decision Map & Real-Time Edge Triage (v2) | [**`10.5281/zenodo.22867425`**](https://doi.org/10.5281/zenodo.22867425) | [`10.5281/zenodo.22939253`](https://doi.org/10.5281/zenodo.22939253) | [`arXiv:2609.25498`](https://arxiv.org/abs/2609.25498) • [🤗 HF Paper](https://huggingface.co/papers/2609.25498) • [🤗 HF Dataset](https://huggingface.co/datasets/pCwOrM/werr_open_decisions) | [`pCwOrM/werr`](https://github.com/pCwOrM/werr) • [`pCwOrM/answerr`](https://github.com/pCwOrM/answerr) |
 | **04** | **Paper 4: Werracle** | Sub-Cent Intra-Block AI Reflex Oracles & Flash-Loan Circuit Breakers (v1) | [**`10.5281/zenodo.22942598`**](https://doi.org/10.5281/zenodo.22942598) | [`10.5281/zenodo.22942599`](https://doi.org/10.5281/zenodo.22942599) | [`arXiv:2609.30719`](https://arxiv.org/abs/2609.30719) • [**SSRN: 7626279**](https://papers.ssrn.com/abstract=7626279) • [🤗 HF Paper](https://huggingface.co/papers/2609.30719) | [`pCwOrM/werracle`](https://github.com/pCwOrM/werracle) • [`pCwOrM/werralem`](https://github.com/pCwOrM/werralem) |
@@ -132,7 +135,7 @@ All monographs, formal Lean 4 specifications, and empirical datasets across the 
 * **Intellectual Property & Licensing Administration:**
   * All scientific monographs, formal Lean 4 verification proofs, and patent priorities are authored by Volkan Dağlı, Dr. Zerrin Dağlı, and Dağhan Dağlı.
   * Comprehensive stewardship, administration, and representation over all intellectual property rights are vested in **Volkan Dağlı**.
-  * Exclusive commercial deployment, enterprise support, and industrial licensing rights have been granted to **ITouch Systems** (`ITOUCH BILISIM SISTEMLERI LTD. STI.`, Cukurova University Science Park, Adana, Türkiye).
+  * Exclusive commercial deployment, enterprise support, and industrial licensing rights have been granted to **ITouch Systems** (`ITOUCH BILISIM SISTEMLERI LTD. STI.`, Cukurova University Technopark, Adana, Türkiye).
 * **Corporate Governance (ITouch Systems):**
   * **Volkan Dağlı:** Partner & Chief Technology Officer (CTO)
   * **Bekirhan Dağlı:** Managing Partner & Chief Executive Officer (CEO)
