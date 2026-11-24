@@ -4,13 +4,15 @@
 ### Procedural Boundary Dynamics · Machine-Checked Formal Mathematics (Lean 4) · Zero-Storage On-Chain & Edge Intelligence
 
 [![ORCID: 0009-0000-1587-8703](https://img.shields.io/badge/ORCID-0009--0000--1587--8703-a6ce39.svg?logo=orcid&logoColor=white)](https://orcid.org/0009-0000-1587-8703)
-[![Hugging Face: @pCwOrM](https://img.shields.io/badge/Hugging_Face-%40pCwOrM_(6_Papers_%C2%B7_2_Datasets)-ffcc00.svg?logo=huggingface&logoColor=black)](https://huggingface.co/pCwOrM)
+[![Hugging Face: WERR Lab](https://img.shields.io/badge/Hugging_Face-WERR_Lab_%C2%B7_7_Papers_%C2%B7_2_Datasets-ffcc00.svg?logo=huggingface&logoColor=black)](https://huggingface.co/werr-lab)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Volkan_Dagli-4285F4.svg?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=ix59bbkAAAAJ)
+[![alphaXiv](https://img.shields.io/badge/alphaXiv-%40volkan--dagli_(7_Papers)-b31b1b.svg)](https://www.alphaxiv.org/@volkan-dagli)
 [![arXiv Publications](https://img.shields.io/badge/arXiv-7_Published_%C2%B7_3_In_Moderation-b31b1b.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2611.11641)
-[![CERN Zenodo Corpus](https://img.shields.io/badge/CERN_Zenodo-18_Monograph_Families-024dad.svg)](https://doi.org/10.5281/zenodo.22774934)
+[![CERN Zenodo Corpus](https://img.shields.io/badge/CERN_Zenodo-19_Works_Corpus-024dad.svg)](https://doi.org/10.5281/zenodo.22774934)
 [![Elsevier SSRN](https://img.shields.io/badge/Elsevier_SSRN-3_Distributed_Papers-002f6c.svg?logo=elsevier&logoColor=white)](https://papers.ssrn.com/abstract=7659198)
 [![Lean 4 Formal Verification](https://img.shields.io/badge/Lean_4-190%2B_Theorems_(0_sorry)-10b981.svg)](https://github.com/pCwOrM/gap-lean4-port)
 [![NSF ICARM Leaderboard](https://img.shields.io/badge/NSF_ICARM_Leaderboard-230_Curves_%C2%B7_30x_%231_Gold-0ea5e9.svg)](https://elliptic-rank.icarm.cloud/user/114)
-[![Schönhage Tensor Bound](https://img.shields.io/badge/Sch%C3%B6nhage_Tensor--377%2C890_Wires_(CrocSwap_%23226)-10b981.svg)](https://github.com/CrocSwap/integer-mult-bounds/pull/226)
+[![Schönhage Tensor Bound](https://img.shields.io/badge/Sch%C3%B6nhage_Tensor-%E2%88%92377%2C890_Wires_(CrocSwap_%23226)-10b981.svg)](https://github.com/CrocSwap/integer-mult-bounds/pull/226)
 [![Base Mainnet: Werrium (WERR)](https://img.shields.io/badge/Base_Mainnet-Werrium_(%24WERR)_Verified-0052ff.svg?logo=coinbase&logoColor=white)](https://basescan.org/address/0xFfa2c95b68B76af00FBD84295cBA5e5268a996d2)
 [![TÜRKPATENT Priorities](https://img.shields.io/badge/T%C3%9CRKPATENT-TR_2026%2F016285_%7C_016633_%7C_020266-7c3aed.svg)](https://github.com/pCwOrM/fractal-neural-synthesis)
 
@@ -101,7 +103,7 @@ All monographs, formal Lean 4 specifications, and empirical datasets across the 
 ### 1. Certified Mathematical Records & Formal Verification (`0 sorry`)
 * **🥇 NSF ICARM Elliptic Curve Rank Leaderboard ([`elliptic-rank.icarm.cloud/user/114`](https://elliptic-rank.icarm.cloud/user/114)):** **230 certified high-rank elliptic curves** (`#4308–#4537`) over $\mathbb{Q}$ with **100% complete prime conductor factorization ($\log N$)** up to Rank $\ge 19$ (`#4323`), achieving **30 First-Place (#1 Gold) Records**, **80 Podium (Top-3)**, and **418 Top-10** placements across 43 categories (building upon the foundational fibration families of Elkies, Dujella, Rubinstein, and Klagsbrun; supported under NSF Grant `DMS-2425401`).
 * **🥇 Schönhage Trilinear Multiplication Tensor Bound ([`arXiv:2610.14263`](https://arxiv.org/abs/2610.14263) • [`CrocSwap/integer-mult-bounds#226`](https://github.com/CrocSwap/integer-mult-bounds/pull/226)):** Constructive 15-round bipartite carrier matching at dimensions $h=23, 25$ eliminating 185 carrier roles and **377,890 physical wires** ($W = 177,284,805 \to 176,906,915$), certifying $\kappa = 826,215,307 / 20,000,000,000,000 \approx 4.131076535 \times 10^{-5}$ ($1.377\times$ net gain over PR #49), formally incorporated into `CrocSwap/integer-mult-bounds` (`commit 50d76881`) and verified in Lean 4 (`0 sorry`).
-* **📐 170+ Machine-Checked Theorems in Lean 4 (`0 sorry`, `0 unproven axioms`):**
+* **📐 190+ Machine-Checked Theorems in Lean 4 (`0 sorry`, `0 unproven axioms`):**
   * **General Divisor Theorem (`GDT v3.0`):** 81 theorems/lemmas (`0 sorry`) formalizing Dan Hawkley's residue density framework ([`10.5281/zenodo.23316068`](https://doi.org/10.5281/zenodo.23316068)).
   * **Computational Group Theory (`gap-lean4-port`):** 35 theorems (`0 sorry`) formalizing Charles Sims' Schreier-Sims stabilizer chains (`GAP-0299`), backtrack ordered partitions (`GAP-0332`), and modular ring inverses (`GAP-0331`) ([`arXiv:2609.38492`](https://arxiv.org/abs/2609.38492)).
   * **Procedural Boundary Synthesis & EVM/Cairo Fixed-Point Bounds:** 40+10 theorems (`WerracleProof.lean`, `0 sorry`) verifying `ZMod 9` ($\mathbb{Z}/9\mathbb{Z}$) principal ideal closure ($\mathcal{I}_3 = \{0,3,6\}$), Q16.16 overflow safety, and unitary Page curve S-matrix conservation ([`arXiv:2609.33066`](https://arxiv.org/abs/2609.33066)).
@@ -143,4 +145,4 @@ All monographs, formal Lean 4 specifications, and empirical datasets across the 
 * **Corporate Governance (ITouch Systems):**
   * **Volkan Dağlı:** Partner & Chief Technology Officer (CTO)
   * **Bekirhan Dağlı:** Managing Partner & Chief Executive Officer (CEO)
-* **Official Contacts:** `vdagli@itouch.com.tr` · `contact@werracle.com` · `ask@answerr.me`
+* **Official Contacts:** `ask@answerr.me` · `vdagli@aof.anadolu.edu.tr` · `contact@werracle.com`
