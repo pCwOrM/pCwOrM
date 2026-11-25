@@ -1,15 +1,15 @@
 <div align="center">
 
 # Volkan Dagli (`@pCwOrM`) · ITouch Systems Research Group
-### Procedural Boundary Dynamics · Machine-Checked Formal Mathematics (Lean 4) · Zero-Storage On-Chain & Edge Intelligence
+### Procedural Boundary Dynamics · Machine-Checked Formal Mathematics (Lean 4) · Constant-Storage (24-Byte) On-Chain & Edge Intelligence
 
 [![ORCID: 0009-0000-1587-8703](https://img.shields.io/badge/ORCID-0009--0000--1587--8703-a6ce39.svg?logo=orcid&logoColor=white)](https://orcid.org/0009-0000-1587-8703)
-[![Hugging Face: WERR Lab](https://img.shields.io/badge/Hugging_Face-WERR_Lab_%C2%B7_7_Papers_%C2%B7_2_Datasets-ffcc00.svg?logo=huggingface&logoColor=black)](https://huggingface.co/werr-lab)
+[![arXiv Flagship: 2611.32393](https://img.shields.io/badge/arXiv-8_Published_(Flagship_2611.32393)-b31b1b.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2611.32393)
+[![alphaXiv](https://img.shields.io/badge/alphaXiv-%40volkan--dagli_(8_Papers_%C2%B7_v2_Posters)-6d28d9.svg)](https://www.alphaxiv.org/@volkan-dagli)
+[![Elsevier SSRN](https://img.shields.io/badge/Elsevier_SSRN-7659198_(v4.0)_%C2%B7_3_Papers-005a9c.svg?logo=elsevier&logoColor=white)](https://papers.ssrn.com/abstract=7659198)
+[![CERN Zenodo Corpus](https://img.shields.io/badge/CERN_Zenodo-19_Works_Corpus_(v4.0)-024dad.svg)](https://doi.org/10.5281/zenodo.22774934)
+[![Hugging Face: WERR Lab](https://img.shields.io/badge/Hugging_Face-WERR_Lab_%C2%B7_8_Papers_%C2%B7_2_Models_%C2%B7_2_Datasets_%C2%B7_1_Space-FFD21E.svg?logo=huggingface&logoColor=black)](https://huggingface.co/werr-lab)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Volkan_Dagli-4285F4.svg?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=ix59bbkAAAAJ)
-[![alphaXiv](https://img.shields.io/badge/alphaXiv-%40volkan--dagli_(7_Papers)-b31b1b.svg)](https://www.alphaxiv.org/@volkan-dagli)
-[![arXiv Publications](https://img.shields.io/badge/arXiv-8_Published_%C2%B7_2_In_Moderation-b31b1b.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2611.11641)
-[![CERN Zenodo Corpus](https://img.shields.io/badge/CERN_Zenodo-19_Works_Corpus-024dad.svg)](https://doi.org/10.5281/zenodo.22774934)
-[![Elsevier SSRN](https://img.shields.io/badge/Elsevier_SSRN-3_Distributed_Papers-002f6c.svg?logo=elsevier&logoColor=white)](https://papers.ssrn.com/abstract=7659198)
 [![Lean 4 Formal Verification](https://img.shields.io/badge/Lean_4-190%2B_Theorems_(0_sorry)-10b981.svg)](https://github.com/pCwOrM/gap-lean4-port)
 [![NSF ICARM Leaderboard](https://img.shields.io/badge/NSF_ICARM_Leaderboard-230_Curves_%C2%B7_30x_%231_Gold-0ea5e9.svg)](https://elliptic-rank.icarm.cloud/user/114)
 [![Schönhage Tensor Bound](https://img.shields.io/badge/Sch%C3%B6nhage_Tensor-%E2%88%92377%2C890_Wires_(CrocSwap_%23226)-10b981.svg)](https://github.com/CrocSwap/integer-mult-bounds/pull/226)
@@ -34,7 +34,7 @@
 
 Welcome to the official GitHub profile of **Volkan Dagli** and the **ITouch Systems Research & Development Group** (*ITouch Bilişim Sistemleri Ltd. Şti.*, Cukurova University Technopark, Adana/Mersin, Türkiye & Anadolu University).
 
-Our research programme investigates **deterministic, zero-storage procedural synthesis** via bounded-iteration complex polynomial escape dynamics ($z_{n+1} = z_n^2 + c$), **machine-checked interactive theorem proving in Lean 4 (`0 sorry`)**, **computational number theory & discrete algebra**, **whole-brain neuromorphic connectomics**, and **intra-block fixed-point (`Q16.16`) smart contract security oracles**.
+Our research programme investigates **deterministic, constant-storage ($O(1)$ / 24-byte) procedural weight synthesis** via complex quadratic boundary dynamics ($f_c(z) = z^2 + c$), **machine-checked interactive theorem proving in Lean 4 (`0 sorry`)**, **computational number theory & discrete algebra**, **whole-brain neuromorphic connectomics**, and **intra-block fixed-point (`Q16.16`) smart contract security oracles**.
 
 ### 👥 Core Research Team & Co-Inventors
 * **Volkan Dagli** — *Corresponding Author, CTO* (Anadolu University & ITouch Systems, Cukurova University Technopark) · ORCID: [`0009-0000-1587-8703`](https://orcid.org/0009-0000-1587-8703) · [`@pCwOrM`](https://github.com/pCwOrM)
